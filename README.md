@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-meilisearch-dashboard.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-meilisearch-dashboard) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-meilisearch-dashboard).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-meilisearch-dashboard/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.2`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-meilisearch-dashboard/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-11-06 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-meilisearch-dashboard/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-12-20 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-meilisearch-dashboard/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-meilisearch-dashboard.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-meilisearch-dashboard.json)
 
